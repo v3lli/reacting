@@ -1,0 +1,21 @@
+html{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+    -webkit-box-sizing: border-box;
+    -webkit-scroll-behavior: smooth;
+
+    
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+    -webkit-box-sizing: inherit;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    
+    -webkit-height:100vh;
+    -webkit-width:100vw ;
+}

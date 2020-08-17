@@ -1,0 +1,13 @@
+.pane{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    border: 1px solid #9fc5e8;
+    background-color: #cfe2f3;
+    margin-top: 10px;
+}
+
+/* .pane:hover{
+    background-image: url("./tahini-chocolate-chip-skillet-cookie-3.jpg");
+    background-size: cover;
+} */

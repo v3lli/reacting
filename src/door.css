@@ -1,0 +1,19 @@
+.entrance{
+    width: 90px;
+    height: 116px;
+    border: 1px solid #d8b76f;
+    background-color: #d8b76f;
+    padding: 2em;
+    font-size: xx-small;
+    color: whitesmoke;
+    
+}
+
+.knob{
+    width: 25%;
+    float: left;
+    color: #c06e19;
+    background-color: #c06e19;
+    margin-left: -18px;
+}
+
